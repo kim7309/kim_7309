@@ -1,0 +1,2 @@
+- [Github](github/)
+- [python](https://github.com/kim7309/kim_7309/blob/main/python%20chapter1/redeme.md)
